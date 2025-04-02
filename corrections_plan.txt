@@ -1,0 +1,57 @@
+# Corrections Plan for HTML Files
+
+## General Corrections
+- Change "NUMERO DE TELEFONO" to "NÚMERO DE TELÉFONO" in all files.
+- Ensure all scientific names end with a period.
+
+## Specific File Corrections
+
+### SAUCO.HTML
+- Correct "Sambucus mexicana Pres" to "Sambucus mexicana Pres.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### SECAPALO.HTML
+- Correct "Cissus sicyoides L./ Cissus verticillata (L.) Nicolson & C. E. Jarvis" to "Cissus sicyoides L./ Cissus verticillata (L.) Nicolson & C. E. Jarvis.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### SIEMPREVIVA.HTML
+- Correct "Sedum dendroideum Moc & Sessé" to "Sedum dendroideum Moc & Sessé.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### SIMONILLO.HTML
+- Correct "Conyza filaginoides (DC.) Hieron" to "Conyza filaginoides (DC.) Hieron.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### TALAMAT.HTML
+- Correct "Desmodium incanum." to "Desmodium incanum.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### TEJOCOTE.HTML
+- Correct "Crataegus pubescens (Kunth) Steudel" to "Crataegus pubescens (Kunth) Steudel.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### TOLACHE.HTML
+- Correct "Datura stramonium L." to "Datura stramonium L.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### TOMATE DE PUNZADA.HTML
+- Correct "Solanum marginatum L." to "Solanum marginatum L.".
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+### TRES OJITAS.HTML
+- Correct "Hamelia patens" to "Hamelia patens.".
+- Replace `<e>` and `<TEX>` with appropriate tags.
+- Change `<H2>` to `<h2>` and `<CENTER>` to `<center>`.
+- Ensure proper punctuation and spacing in the text.
+
+## Follow-Up Steps
+- Implement the corrections in each file.
+- Test the HTML files to ensure they render correctly after the changes.
